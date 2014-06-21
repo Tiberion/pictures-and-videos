@@ -1,4 +1,4 @@
-Pictures
+Pictures and videos
 ========
 
-All included pictures of the project.
+All included pictures and videos of the project.
